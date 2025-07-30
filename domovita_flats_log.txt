@@ -1,0 +1,21 @@
+2025-07-30 12:09:01,439 INFO:Start polling
+2025-07-30 12:09:04,306 INFO:Run polling for bot @kbponosbot id=8319490186 - 'kvponos'
+2025-07-30 12:09:09,562 INFO:Update id=542436561 is handled. Duration 202 ms by bot id=8319490186
+2025-07-30 12:09:52,076 INFO:Fetched links: {'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-gintovta-26-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-danily-serdica-48-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-pulikhova-43', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-per-kozlova-8'}
+2025-07-30 12:09:52,077 INFO:New links to be added: ['https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-gintovta-26-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-danily-serdica-48-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-pulikhova-43', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-per-kozlova-8']
+2025-07-30 12:20:15,852 INFO:Fetched links: {'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-gintovta-26-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-danily-serdica-48-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-pulikhova-43', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-per-kozlova-8'}
+2025-07-30 12:20:15,852 INFO:New links to be added: []
+2025-07-30 12:30:31,446 INFO:Fetched links: {'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-gintovta-26-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-danily-serdica-48-2', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-ul-pulikhova-43', 'https://domovita.by/minsk/flats/rent/4-komnatnaa-kvartira-per-kozlova-8'}
+2025-07-30 12:30:31,446 INFO:New links to be added: []
+2025-07-30 12:34:15,334 INFO:Polling stopped
+2025-07-30 12:34:15,601 INFO:Polling stopped for bot @kbponosbot id=8319490186 - 'kvponos'
+2025-07-30 12:40:16,835 INFO:Start polling
+2025-07-30 12:40:16,974 INFO:Run polling for bot @kbponosbot id=8319490186 - 'kvponos'
+2025-07-30 12:40:23,247 INFO:Update id=542436562 is handled. Duration 187 ms by bot id=8319490186
+2025-07-30 12:40:36,017 WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C303E7E4B0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/cb79ae6781069b1562ba9f343b81635a/source
+2025-07-30 12:40:40,074 WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C303A06BD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/cb79ae6781069b1562ba9f343b81635a/source
+2025-07-30 12:40:44,165 WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C303F936E0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/cb79ae6781069b1562ba9f343b81635a/source
+2025-07-30 12:40:48,251 ERROR:Selenium error: HTTPConnectionPool(host='localhost', port=54991): Max retries exceeded with url: /session/cb79ae6781069b1562ba9f343b81635a/source (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C303F93B00>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-07-30 12:40:48,252 INFO:Fetched links: set()
+2025-07-30 12:40:48,320 INFO:Polling stopped
+2025-07-30 12:40:48,582 INFO:Polling stopped for bot @kbponosbot id=8319490186 - 'kvponos'

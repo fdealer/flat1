@@ -4,7 +4,7 @@ import sqlite3
 
 api_url = 'https://r.onliner.by/sdapi/ak.api/search/apartments'
 params = {
-    'rent_type[]': ['3_rooms', '4_rooms'],
+    'rent_type[]': ['3_rooms'],
     'price[min]': '400',
     'price[max]': '700',
     'currency': 'usd',

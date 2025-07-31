@@ -15,7 +15,7 @@ logging.basicConfig(filename='domovita_flats_log.txt', level=logging.INFO,
                     format='%(asctime)s %(levelname)s:%(message)s')
 
 
-url = 'https://domovita.by/minsk/flats/rent?rooms=%2C%2C%3E3&price%5Bmin%5D=550&price%5Bmax%5D=900&price_type=all_usd&ajax='
+url = 'https://domovita.by/minsk/flats/rent?rooms=%3C%2C%3E3&price%5Bmin%5D=400&price%5Bmax%5D=700&price_type=all_usd&ajax='
 
 database = 'flats.db'
 

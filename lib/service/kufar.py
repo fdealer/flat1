@@ -8,8 +8,8 @@ params = {
     'cur': 'USD',
     'gtsy': 'country-belarus~province-minsk~locality-minsk',
     'lang': 'ru',
-    'prc': 'r:400,700',
-    'rms': 'v.or:3,4',
+    'prc': 'r:100,300',
+    'rms': 'v.or:1,2',
     'size': '30',
     'typ': 'let'
 }
@@ -88,3 +88,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

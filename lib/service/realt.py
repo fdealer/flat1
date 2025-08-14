@@ -43,8 +43,7 @@ def fetch_ads():
             "variables": {
                 "data": {   
                     "where": {
-                        "rooms": ["1"],
-                        "rooms": ["2"],
+                        "rooms": ["1","2"],
                         "priceTo": "300",
                         "priceType": "840",
                         "addressV2": [{"townUuid": "4cb07174-7b00-11eb-8943-0cc47adabd66"}],
@@ -139,6 +138,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
 

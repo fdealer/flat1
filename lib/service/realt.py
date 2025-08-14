@@ -43,6 +43,7 @@ def fetch_ads():
             "variables": {
                 "data": {   
                     "where": {
+                        "rooms": ["1"],
                         "rooms": ["2"],
                         "priceTo": "300",
                         "priceType": "840",
@@ -138,5 +139,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
